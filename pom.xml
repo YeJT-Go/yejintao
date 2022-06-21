@@ -11,6 +11,7 @@
     <modules>
         <module>design-patterns</module>
         <module>data-structure</module>
+        <module>study-record</module>
     </modules>
 
     <parent>
